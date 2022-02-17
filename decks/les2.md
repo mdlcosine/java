@@ -5,20 +5,25 @@
 
 
 # Agenda
-* Bespreken lesopdracht vorige les <!-- .element: class="fragment "  -->
+* Vragen over lesopdracht vorige les <!-- .element: class="fragment "  -->
+* Vragen over GIT <!-- .element: class="fragment "  -->
 * Demo Class VS Object <!-- .element: class="fragment "  -->
-* Demo Polymorphisme <!-- .element: class="fragment "  -->
 * Demo Abstract VS Concreet <!-- .element: class="fragment "  -->
 * Demo @Override en this en super <!-- .element: class="fragment "  -->
-* Demo Refactoren in IDE <!-- .element: class="fragment "  -->
-* Demo RunConfigs <!-- .element: class="fragment "  -->
+* Demo Refactoring in IDE <!-- .element: class="fragment "  -->
+* Demo RunConfigs in IDE <!-- .element: class="fragment "  -->
 * Lesopdracht <!-- .element: class="fragment "  -->
 * Bespreken lesopdracht - 20:35u <!-- .element: class="fragment "  -->
 
 
 
-# Welke opdracht willen jullie bespreken?
-### Poll in de chat
+
+> Zijn er nog vragen over de vorige lesopdrachten?
+
+
+
+> Zijn er nog vragen over de GIT workshop?
+
 
 
 
@@ -42,12 +47,16 @@
 
 
 # Demo tijd
+* Demo Class VS Object
+* Demo Abstract VS Concreet
+* Demo @Override en this en super
+* Demo Refactoring in IDE
+* Demo RunConfigs in IDE
 
 
 
 # Les opdracht
 * Clone de opdracht (https://github.com/hogeschoolnovi/SD-BE-JP-methods.git)
-* Maak een branch aan met jouw naam
 * Maak de opdrachten uit Medior en Senior en voor elke opdracht die je gemaakt hebt een commit met een nuttige beschrijving
 
 
