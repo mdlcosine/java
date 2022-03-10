@@ -15,6 +15,9 @@
 
 
 
+# Poll
+
+
 
 > Zijn er nog vragen over de vorige lesopdrachten?
 > Arrays, collecties en lussen
@@ -22,6 +25,25 @@
 
 
 > Zijn er nog vragen over GIT?
+
+
+
+# Aggregatie VS Compositie
+> Regelmatig terugkerend begrip in met name klassediagrammen. 
+> Laat deze diagrammen overeenkomen met code.
+
+
+# Aggregatie
+* Has-a <!-- .element: class="fragment "  -->
+* Child kan _**wel**_ bestaan zonder Parent <!-- .element: class="fragment "  -->
+
+
+
+# Compositie 
+* part-of <!-- .element: class="fragment "  -->
+* Child kan _**niet**_ bestaan zonder Parent <!-- .element: class="fragment" --> 
+* Lastig om in Java af te dwingen <!-- .element: class="fragment "  -->
+
 
 
 
@@ -36,7 +58,7 @@
 
 
 # Les opdracht
-* Clone de [opdracht]()
+* Clone de [opdracht](https://github.com/hogeschoolnovi/SD-BE-JP-Relaties)
 * Maak de opdrachten en voor elke opdracht die je gemaakt hebt een commit met een nuttige beschrijving
 
 
@@ -48,6 +70,13 @@
 
 # Huiswerk
 ### Relaties en Overerven
-* Maak de huiswerkopdracht
+
+
+> Belangrijk: Lees en Maak
+> Casino opdracht is java.Optional
+
+
+
+* Maak de huiswerkopdracht [huiswerk](https://github.com/hogeschoolnovi/backend-java-pokemon)
 * Lees hoofdstukken 5 t/m 7
 * Volgende les gaan we het hebben over Interfaces, Scope, Access modifiers en packages
