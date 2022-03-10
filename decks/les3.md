@@ -51,7 +51,7 @@
 
 
 # Les opdracht
-* Clone de opdracht
+* Clone de [opdracht](https://github.com/hogeschoolnovi/SD-BE-JP-oefenopdrachten.git)
 * Maak de opdrachten en voor elke opdracht die je gemaakt hebt een commit met een nuttige beschrijving
 
 
