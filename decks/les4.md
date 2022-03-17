@@ -11,7 +11,7 @@
 * Demo De Klas <!-- .element: class="fragment "  -->
 * Lesopdracht <!-- .element: class="fragment "  -->
 * Bespreken lesopdracht - 20:35u <!-- .element: class="fragment "  -->
-* Wat gaan we de volgende les doen?
+* Wat gaan we de volgende les doen? <!-- .element: class="fragment "  -->
 
 
 
